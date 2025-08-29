@@ -367,11 +367,14 @@
                 right: 1em;
                 bottom: 1em;
                 border-radius: 1em;
+                z-index: 100;
+                
             }
             
             .chatbutton {
                 right: 1em;
                 bottom: 1em;
+                z-index:0;
             }
         }
     
